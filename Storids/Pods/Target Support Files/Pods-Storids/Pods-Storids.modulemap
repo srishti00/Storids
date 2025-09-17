@@ -1,0 +1,6 @@
+framework module Pods_Storids {
+  umbrella header "Pods-Storids-umbrella.h"
+
+  export *
+  module * { export * }
+}
